@@ -1,4 +1,10 @@
-# parol-vscode README
+# ATTENTION - This project was moved to [parol](https://github.com/jsinger67/parol)
+
+You can find it `parol`'s workspace [here](https://github.com/jsinger67/parol/tree/main/tools/parol-vscode).
+
+There is no further development in this repository here.
+
+## parol-vscode README
 
 <!-- markdownlint-disable Inline HTML -->
 <br>
